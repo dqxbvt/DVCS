@@ -8,7 +8,7 @@ namespace ConsoleAppTictac
 
         static void Main()
         {
-
+            char plater = "Z";
             char player = 'X';
 
             char[,] board = new char[3, 3];
