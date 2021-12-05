@@ -1,0 +1,7 @@
+C:\Users\Dom\Desktop\ticcons\ConsoleAppTictac\ConsoleAppTictac\bin\Debug\ConsoleAppTictac.exe.config
+C:\Users\Dom\Desktop\ticcons\ConsoleAppTictac\ConsoleAppTictac\bin\Debug\ConsoleAppTictac.exe
+C:\Users\Dom\Desktop\ticcons\ConsoleAppTictac\ConsoleAppTictac\bin\Debug\ConsoleAppTictac.pdb
+C:\Users\Dom\Desktop\ticcons\ConsoleAppTictac\ConsoleAppTictac\obj\Debug\ConsoleAppTictac.csprojAssemblyReference.cache
+C:\Users\Dom\Desktop\ticcons\ConsoleAppTictac\ConsoleAppTictac\obj\Debug\ConsoleAppTictac.csproj.CoreCompileInputs.cache
+C:\Users\Dom\Desktop\ticcons\ConsoleAppTictac\ConsoleAppTictac\obj\Debug\ConsoleAppTictac.exe
+C:\Users\Dom\Desktop\ticcons\ConsoleAppTictac\ConsoleAppTictac\obj\Debug\ConsoleAppTictac.pdb
